@@ -11,7 +11,7 @@ export default {
 </script>
 <style scoped>
 .red{
-  color:red;
+  color:green;
   font-size: 20px;
 }
 </style>
